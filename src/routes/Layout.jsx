@@ -29,7 +29,7 @@ export default function Layout(){
             <footer className="mt-20">
                 <hr className="border-black"></hr>
                 <div className="flex justify-between mt-10 mb-10">
-                    <p>Created by: SweetCherry</p>
+                    <p>Created by: Urkevich Alex</p>
                     <p>BSU: 2022</p>
                 </div>
             </footer>
